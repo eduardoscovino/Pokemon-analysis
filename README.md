@@ -1,4 +1,8 @@
-# Pokemon-analysis
+# Pokemon Analysis With Stats
+
+<p align="center">
+  <img src="banner_sicily.jpg" >
+</p>
 
 Hi guys! In this notebook I did some analyses with a dataset of pokemons from 6 different generations. I explored some insights with statistics and also provided some interactive plots.
 
